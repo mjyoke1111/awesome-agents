@@ -81,6 +81,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [LumiBot](https://github.com/Lumiwealth/lumibot): Open-source Python framework for AI trading agents. Research agents pass findings to one trading agent, and the same strategy code runs in backtests and live trading through 12 brokers. ![GitHub Repo stars](https://img.shields.io/github/stars/Lumiwealth/lumibot?style=social)
 - [Automatos AI](https://github.com/AutomatosAI/automatos-ai): Self-hosted AI agent platform (Apache-2.0): one chat routes work to a team of agents on any model or on your own Claude Code, Codex and GitHub Copilot CLI sessions, with Playbooks, multi-agent Missions, a task board, RAG and a Knowledge Graph. ![GitHub Repo stars](https://img.shields.io/github/stars/AutomatosAI/automatos-ai?style=social)
 - [Atomic Agents](https://github.com/eigenwise/atomic-agents): Python framework for building agents from small typed parts, built on Instructor and Pydantic, with built-in OpenTelemetry tracing. ![GitHub Repo stars](https://img.shields.io/github/stars/eigenwise/atomic-agents?style=social)
+- [Speakeasy control plane](https://github.com/speakeasy-api/gram): AI control plane for connecting agents to MCP tools through an identity-aware gateway, with role-based access, per-action security policies, and audit logs. ![GitHub Repo stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
@@ -159,6 +160,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Preloop](https://github.com/preloop/preloop): Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. ![GitHub Repo stars](https://img.shields.io/github/stars/preloop/preloop?style=social)
 - [Oh My Hermes](https://github.com/rlaope/oh-my-hermes): Workflow plugin for Hermes Agent adding specialist skills, project memory, and task-specific model and reasoning routing. ![GitHub Repo stars](https://img.shields.io/github/stars/rlaope/oh-my-hermes?style=social)
 - [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp): Local-first shared work-state for coding agents: presence, claims, messaging and handoffs. ![GitHub Repo stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)
+- [OMK](https://github.com/dmae97/omk): Open-source multi-agent coding CLI for the terminal (TypeScript, MIT). Switch models mid-session; finish goals only when your test passes. ![GitHub Repo stars](https://img.shields.io/github/stars/dmae97/omk?style=social)
 
 ## Research
 
@@ -199,6 +201,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [LIA](https://github.com/jgouviergmail/LIA-Assistant): Self-hostable personal AI assistant built with LangGraph, combining email and calendar tools, persistent memory, MCP integration, and human approval flows for actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jgouviergmail/LIA-Assistant?style=social)
 - [ENZO](https://github.com/theguysudo/ENZO): Self-hosted AI workspace that runs entirely on your own provider keys (BYOK) — coding mode with build verification, research, agents, skills and tools (Gmail, Calendar), with a sandboxed runtime for LLM-generated code ![GitHub Repo stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 - [AgenticOS](https://github.com/vstorm-co/agenticos): Open-source, self-hosted workspace for company AI agents, built on Pydantic AI, with budgets, approvals and an audit log ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
+- [ShibaClaw](https://github.com/RikyZ90/ShibaClaw): Self-hosted personal AI agent with a built-in WebUI, persistent memory, MCP tools, sub-agent delegation, scheduled automations, and support for local or cloud models. ![GitHub Repo stars](https://img.shields.io/github/stars/RikyZ90/ShibaClaw?style=social)
 
 ## Game / Simulation
 
@@ -239,6 +242,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [RedAmon](https://github.com/samugit83/redamon): Self-hosted AI penetration testing agent built on LangGraph that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests with fixes. ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
 - [OpenConnector](https://github.com/oomol-lab/open-connector): Open-source connector gateway for agents to discover and execute SaaS actions through MCP, HTTP, and OpenAPI, with OAuth/API-key credential management and scoped runtime tokens. ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social)
+- [LazyMind](https://github.com/LazyAGI/LazyMind): Open-source AI Skill Runtime combining reusable knowledge, executable skills, and observable workflows with human review checkpoints and editable artifacts for multi-step tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyMind?style=social)
 
 
 ### Browser
